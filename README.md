@@ -2,4 +2,4 @@
 just a test
 
 
-testing the way I can updaate a branch
+testing the way I can update a branch
